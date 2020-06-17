@@ -1,0 +1,3 @@
+[submodule "asv-swarm"]
+	path = asv-swarm
+	url = https://github.com/resilient-swarms/asv-swarm.git
