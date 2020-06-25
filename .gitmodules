@@ -1,3 +1,6 @@
 [submodule "asv-swarm"]
 	path = asv-swarm
 	url = https://github.com/resilient-swarms/asv-swarm.git
+[submodule "sferes2"]
+	path = sferes2
+	url = https://github.com/sferes2/sferes2.git
