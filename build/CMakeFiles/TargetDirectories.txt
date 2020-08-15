@@ -1,0 +1,4 @@
+/lyceum/rz2u19/ASV-Adaption/build/CMakeFiles/rebuild_cache.dir
+/lyceum/rz2u19/ASV-Adaption/build/CMakeFiles/ASV-adaption.dir
+/lyceum/rz2u19/ASV-Adaption/build/CMakeFiles/edit_cache.dir
+/lyceum/rz2u19/ASV-Adaption/build/CMakeFiles/extract_binary_map.dir

@@ -4,3 +4,6 @@
 [submodule "sferes2"]
 	path = sferes2
 	url = https://github.com/sferes2/sferes2.git
+[submodule "limbo"]
+	path = limbo
+	url = https://github.com/resibots/limbo.git
